@@ -1,2 +1,16 @@
 # Crear proyecto react
 https://create-react-app.dev/
+
+
+# Comandos
+Crear:
+ npx create-react-app my-app 
+Crear con Vite y doc:
+https://vitejs.dev/
+
+# NOTAS 
+BUSCAR SIEMPRE CON RESPECTO A !NOTA
+
+
+# Snippets 
+rafc
